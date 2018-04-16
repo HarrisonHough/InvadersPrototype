@@ -1,4 +1,4 @@
-![Featured Screenshot: Asteroids](http://harrisonhough.com/wp-content/uploads/2017/08/AlienRunner.png)
+![Featured Screenshot: Asteroids](https://i2.wp.com/harrisonhough.com/wp-content/uploads/2017/05/invaders1.png)
 
 # Invaders Game Prototype
 A simple 3D Space Invaders inspired game prototype
